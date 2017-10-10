@@ -1,0 +1,20 @@
+{
+  "name": "xlsx-tables-to-json",
+  "version": "0.0.1",
+  "description": "It's a npm module to convert drawn table in excel sheet to json.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd example && node app.js"
+  },
+  "keyword":"xlsx to json, sheet to json, drawn tables to json",
+  "author": "Yogesh Sinoriya",
+  "email":"yogeshsinoriya@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yogesh-sinoriya/xlsx-tables-to-json.git"
+  }
+}
